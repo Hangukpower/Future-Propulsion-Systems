@@ -55,8 +55,8 @@ The development timeline for the nuclear propulsion system is estimated to be 5 
 
 | Phase | Time (Years)|
 | ------------- | ------------- |
-| Design and Planning | 1  |
-| Prototyping  | 2  |
+| Design and Planning     | 1  |
+| Prototyping             | 2  |
 | Testing amd Evaluation  | 2  |
 
 ## Potential Applications
