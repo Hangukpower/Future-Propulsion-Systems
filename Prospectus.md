@@ -62,5 +62,18 @@ The development timeline for the nuclear propulsion system is estimated to be 5 
 ## Potential Applications
 The nuclear propulsion system has the potential to revolutionize space exploration by providing high-thrust propulsion for spacecraft. Potential applications include manned missions to Mars and beyond, as well as unmanned missions to the outer planets and their moons.
 
+## Potential Speed of Spacecraft
+The potential speed that can be achieved with a nuclear propulsion system on board a spacecraft depends on a number of factors, including the specific design of the propulsion system and the mission requirements.
+
+However, nuclear propulsion systems have the potential to achieve much higher speeds than traditional chemical rocket engines, which have a specific impulse (a measure of how efficiently a rocket uses its propellant) of around 300 seconds.
+
+In comparison, nuclear propulsion systems can have specific impulses of several thousand seconds, allowing for much higher speeds. For example, the NERVA (Nuclear Engine for Rocket Vehicle Application) program in the 1960s demonstrated that a nuclear rocket engine could achieve a specific impulse of over 800 seconds, which could potentially allow for much faster travel within our solar system.
+
+It is possible that a spacecraft equipped with a nuclear propulsion system could travel at much higher speeds than current chemical rocket engines, potentially enabling faster and more efficient exploration of our solar system and beyond.
+
+However, to provide a rough estimate, let's consider the NERVA engine that I mentioned earlier, which achieved a specific impulse of over 800 seconds. With this level of efficiency, a spacecraft could potentially achieve speeds of up to 30 kilometers per second, or around 67,000 miles per hour.
+
+It's worth noting, however, that achieving these speeds would require significant amounts of energy and would likely only be feasible for long-distance, interplanetary missions rather than shorter trips within our own solar system. Additionally, the specific speed that a spacecraft could achieve with a nuclear propulsion system would depend on many factors beyond just the efficiency of the engine, so there is much work ahead.
+
 ## Conclusion
 The nuclear propulsion system described in this prospectus represents a significant advance in propulsion technology for space exploration. With a total cost of $100,000,000 and a development timeline of 5 years, this technology has the potential to enable fast, efficient travel to the far reaches of our solar system and beyond.
