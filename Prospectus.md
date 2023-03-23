@@ -50,20 +50,14 @@ The total cost of the nuclear propulsion system is estimated to be $100,000,000.
 | Rocket engine   | 20  |
 | Safety systems  | 10  |
 
-
-|Component	Cost ($ millions)|
-|Nuclear reactor	45| 
-|Heat exchanger	25| 
-|Rocket engine	20| 
-|Safety systems	10|
-
 ## Development Timeline
 The development timeline for the nuclear propulsion system is estimated to be 5 years. The breakdown of the timeline is as follows:
 
-|Phase	Time (years)|
-|Design and planning	1|
-|Prototyping	2|
-|Testing and evaluation	2|
+| Phase | Time (Years)|
+| ------------- | ------------- |
+| Design and Planning | 1  |
+| Prototyping  | 2  |
+| Testing amd Evaluation  | 2  |
 
 ## Potential Applications
 The nuclear propulsion system has the potential to revolutionize space exploration by providing high-thrust propulsion for spacecraft. Potential applications include manned missions to Mars and beyond, as well as unmanned missions to the outer planets and their moons.
