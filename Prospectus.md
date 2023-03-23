@@ -43,6 +43,14 @@ The nuclear propulsion system consists of a nuclear reactor, a heat exchanger, a
 ## Cost Breakdown
 The total cost of the nuclear propulsion system is estimated to be $100,000,000. The breakdown of costs is as follows:
 
+| Component | Cost ($ millions)|
+| ------------- | ------------- |
+| Nuclear reactor | 45  |
+| Heat exchanger  | 25  |
+| Rocket engine   | 20  |
+| Safety systems  | 10  |
+
+
 |Component	Cost ($ millions)|
 |Nuclear reactor	45| 
 |Heat exchanger	25| 
